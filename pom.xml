@@ -33,7 +33,7 @@
         <url>http://localhost:8081/artifactory/sample</url>
     </repository>
     <snapshotRepository>
-        <id>central</id>
+        <id>snapshots</id>
         <name>DESKTOP-LEGC44G-snapshots</name>
         <url>http://localhost:8081/artifactory/sample</url>
     </snapshotRepository>
